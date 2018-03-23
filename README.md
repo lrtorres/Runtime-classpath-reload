@@ -1,4 +1,4 @@
 dynamicLibReload
 ================
 
-Class for dynamically reloading the library path within a running Java thread.
+Reload the Java library path of a program during runtime.
